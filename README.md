@@ -1,6 +1,6 @@
 # mriQA
 
-Medical Resonance Imaging Quality Assurance toolkit with AI agents.
+Medical Resonance Imaging Study Q&A AI Agent toolkit.
 
 ## Quick Start
 
